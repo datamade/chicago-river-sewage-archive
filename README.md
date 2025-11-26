@@ -8,7 +8,7 @@ Original repository:
 This archive was created with `wget`:
 
 ```bash
-wget --mirror --convert-links --adjust-extension --page-requisites --no-parent http://clearstreets.org/
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://clearstreets.org/
 ```
 
 and several scripts for archiving the javascript portions of the site:

@@ -25,7 +25,7 @@ find "$ARCHIVE_DIR" -type f -name '*?date=*' | while read -r file; do
     echo "Fetching /cso-status/?date=$date"
 
     wget -q -O "$outfile" \
-        "http://istheresewageinthechicagoriver.com/cso-status/?date=${date}"
+        "https://istheresewageinthechicagoriver.com/cso-status/?date=${date}"
 
     echo "Saved → $outfile"
 done

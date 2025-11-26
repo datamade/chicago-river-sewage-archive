@@ -306,12 +306,12 @@
 	border-radius: 5px;
 	}
 .leaflet-control-layers-toggle {
-	background-image: url(http://istheresewageinthechicagoriver.com/static/css/images/layers.png);
+	background-image: url(https://istheresewageinthechicagoriver.com/static/css/images/layers.png);
 	width: 36px;
 	height: 36px;
 	}
 .leaflet-retina .leaflet-control-layers-toggle {
-	background-image: url(http://istheresewageinthechicagoriver.com/static/css/images/layers-2x.png);
+	background-image: url(https://istheresewageinthechicagoriver.com/static/css/images/layers-2x.png);
 	background-size: 26px 26px;
 	}
 .leaflet-touch .leaflet-control-layers-toggle {
